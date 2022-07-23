@@ -1,0 +1,3 @@
+
+pip install frida-tools -i https://pypi.tuna.tsinghua.edu.cn/simple/ 必须翻墙
+当前依赖需要单个单个安装
